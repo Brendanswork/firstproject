@@ -3,3 +3,4 @@ I decided to take a Resume template and alter the contents to reflect my current
 
 I plan on making more changes as I learn about responsive web development and bootstrap -->
 
+<! -- All credit goes to https://github.com/startbootstrap/startbootstrap-resume for this template and source code. -->
